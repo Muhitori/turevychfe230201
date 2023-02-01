@@ -1,0 +1,52 @@
+.list {
+	display: flex;
+	flex-direction: column;
+	border: 1px solid #dadada;
+	max-width: 400px;
+}
+
+.listCardWrapper {
+	display: flex;
+	justify-content: space-between;
+	padding: 8px;
+	align-items: center;
+	border: 1px solid #dadada;
+}
+
+.avatar {
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+}
+
+.listCardInfoWrapper {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+	gap: 8px;
+}
+
+.name {
+	font-weight: 500;
+}
+
+.username {
+	color: #d6d9dd;
+}
+
+.listButton {
+	width: 100%;
+	background-color: none;
+	border: 1px solid #ebedef;
+	border-radius: 4px;
+	background-color: white;
+	padding: 8px;
+}
+
+.buttonWrapper {
+	padding: 8px;
+	display: flex;
+	justify-content: center;
+}

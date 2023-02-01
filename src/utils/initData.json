@@ -5,7 +5,7 @@
     "nickname": "@geordanaaryn",
     "email": "geordan.aaryn@fallinhay.com",
     "position": "Chief Executive Officer",
-    "photo": "src/assets/1.jpg"
+    "photo": "1.jpg"
   },
   {
     "phone": "902-782-3286",
@@ -13,7 +13,7 @@
     "nickname": "@brazilizair",
     "email": "brazil.izair@fallinhay.com",
     "position": "Managing Director",
-    "photo": "src/assets/12.jpg"
+    "photo": "2.jpg"
   },
   {
     "phone": "902-739-3333",
@@ -21,7 +21,7 @@
     "nickname": "@selmanwinston",
     "email": "selman.winston@fallinhay.com",
     "position": "Chief Visionary Officer",
-    "photo": "src/assets/13.jpg"
+    "photo": "3.jpg"
   },
   {
     "phone": "902-784-3378",
@@ -29,7 +29,7 @@
     "nickname": "@kainedutch",
     "email": "kaine.dutch@fallinhay.com",
     "position": "Chief Financial Officer",
-    "photo": "src/assets/14.jpg"
+    "photo": "4.jpg"
   },
   {
     "phone": "902-740-3426",
@@ -37,7 +37,7 @@
     "nickname": "@kerbylinton",
     "email": "kerby.linton@fallinhay.com",
     "position": "IT Guy",
-    "photo": "src/assets/15.jpg"
+    "photo": "5.jpg"
   },
   {
     "phone": "902-786-3472",
@@ -45,7 +45,7 @@
     "nickname": "@giladdelvon",
     "email": "gilad.delvon@fallinhay.com",
     "position": "Workless",
-    "photo": "src/assets/16.jpg"
+    "photo": "6.jpg"
   },
   {
     "phone": "902-741-3521",
@@ -53,7 +53,7 @@
     "nickname": "@augustocastor",
     "email": "augusto.castor@fallinhay.com",
     "position": "Manager",
-    "photo": "src/assets/17.jpg"
+    "photo": "7.jpg"
   },
   {
     "phone": "902-788-3568",
@@ -61,7 +61,7 @@
     "nickname": "@ziankhyre",
     "email": "zian.khyre@fallinhay.com",
     "position": "General worker/Works for food",
-    "photo": "src/assets/18.jpg"
+    "photo": "8.jpg"
   },
   {
     "phone": "902-742-3618",
@@ -69,7 +69,7 @@
     "nickname": "@sheldonneiko",
     "email": "sheldon.neiko@fallinhay.com",
     "position": "Security Guy",
-    "photo": "src/assets/19.jpg"
+    "photo": "9.jpg"
   },
   {
     "phone": "902-790-3666",
@@ -77,6 +77,6 @@
     "nickname": "@berengeraltay",
     "email": "berenger.altay@fallinhay.com",
     "position": "Unknown person",
-    "photo": "src/assets/110.jpg"
+    "photo": "10.jpg"
   }
 ]
