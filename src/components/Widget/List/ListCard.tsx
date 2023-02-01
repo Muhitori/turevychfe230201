@@ -4,9 +4,10 @@ import "./styles.css";
 
 interface Props {
 	user: User;
+	onUserSelect: (email: User | null) => void;
 }
 
-export const ListCard: FC<Props> = ({ user }) => {
+export const ListCard: FC<Props> = ({ user, onUserSelect }) => {
 	return (
 		<div className='listCardWrapper'>
 			<img
@@ -19,7 +20,12 @@ export const ListCard: FC<Props> = ({ user }) => {
 				<div className='username'>{user.nickname}</div>
 			</div>
 			<div>
-				<button className='listButton'>View</button>
+				<button
+					className='listButton'
+					style={{ padding: "0.5rem" }}
+					onClick={() => onUserSelect(user)}>
+					View
+				</button>
 			</div>
 		</div>
 	);
